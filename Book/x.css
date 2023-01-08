@@ -1,0 +1,13 @@
+p ol li:first-child{
+color: blueviolet;
+}
+
+body{
+    color:#fffd;
+
+}
+
+ol{
+    color:blue;
+    
+}
