@@ -9,6 +9,6 @@ In addition to our wide selection of books, we also have a blog section where we
 
 At Vanshika's Book Store, we strive to provide an enjoyable and hassle-free shopping experience. We believe that reading is a fundamental part of life, and we want to make it as easy as possible for you to find the perfect book. Thanks for visiting, and we look forward to helping you find the perfect read!
 
-                   ![Vanshika](https://user-images.githubusercontent.com/90781222/211221956-b2fecc4d-c59a-4de7-ba17-bf0632a2b2d8.png)
+![Vanshika](https://user-images.githubusercontent.com/90781222/211221956-b2fecc4d-c59a-4de7-ba17-bf0632a2b2d8.png)
 
-                                                                  This is the logo of website. 
+This is the logo of website. 
